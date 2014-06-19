@@ -10,6 +10,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class Sample {
 
 	public String print() {
-		return "test";
+		return "test message";
 	}
 }
